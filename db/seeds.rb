@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Hamster.create(name: "Billy", age: 12)
+Hamster.create(name: "Dilly", age: 22)
+Hamster.create(name: "Pilly", age: 5)
+Hamster.create(name: "Tilly", age: 6)
+Hamster.create(name: "Milly", age: 10)
